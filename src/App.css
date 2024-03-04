@@ -1,0 +1,43 @@
+
+.body-background {
+  background-color: #f4f7f6; 
+  color: #333; 
+}
+
+.header-background {
+  background-color: #4a69bd; 
+  color: #fff; 
+}
+
+.button-primary {
+  background-color: #78e08f; 
+  border-color: #78e08f; 
+  color: #333; 
+}
+
+.button-primary:hover {
+  background-color: #60a3bc; 
+  border-color: #60a3bc; 
+}
+
+.button-secondary {
+  background-color: #b8e994; 
+  border-color: #b8e994; 
+  color: #333; 
+}
+
+.button-secondary:hover {
+  background-color: #f8c291; 
+  border-color: #f8c291; 
+}
+
+.list-group-item {
+  background-color: #dfe6e9; 
+  border: 1px solid #b2bec3; 
+}
+
+
+body {
+  background: linear-gradient(to right, #74ebd5, #acb6e5); 
+}
+
